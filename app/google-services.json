@@ -1,35 +1,35 @@
 {
   "project_info": {
-    "project_number": "",
-    "firebase_url": "https://fir-ui-android-v2.firebaseio.com",
-    "project_id": "",
-    "storage_bucket": "fir-ui-android-v2.appspot.com"
+    "project_number": "999999999999",
+    "firebase_url": "https://this-is-a-sample-do-not-use.firebaseio.com",
+    "project_id": "this-is-a-sample",
+    "storage_bucket": "this-is-a-sample-do-not-use.storage.firebase.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "",
+        "mobilesdk_app_id": "1:999999999999:android:0000000000000000",
         "android_client_info": {
           "package_name": "com.firebase.uidemo"
         }
       },
       "oauth_client": [
         {
-          "client_id": "",
+          "client_id": "android:com.google.android.gms.example.interstitialexample",
           "client_type": 1,
           "android_info": {
             "package_name": "com.firebase.uidemo",
-            "certificate_hash": ""
+            "certificate_hash": "0000000000000000000000000000000000000000"
           }
         },
         {
-          "client_id": "",
+          "client_id": "this-is-a-sample-do-not-use.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": ""
+          "current_key": "000000000000000000000000000000000000000"
         }
       ],
       "services": {
